@@ -16,23 +16,9 @@
 
 <strong>꼼꼼함</strong>과 <strong>분석력</strong>이 저의 강점이며 폭넓은 기술 스펙트럼을 보유하여 팀 프로젝트에서 주로 <strong>중재자</strong> 역할을 맡고 있습니다.
 
-<h3>🏫 Education</h3>
-
-Samsung Software Academy for Youth 10th (2023. 07 ~ 2024. 06) 
-
-Soonchunhyang University (4.22 / 4.5) (2017. 03 ~ 2023. 02) 
-
-Geumsan High School (2014. 03 ~ 2017. 02)
-
-<h3>🎫 Certificate</h3>
-
-TOEIC Speaking IM3(130) (2023. 12. 24)
-
-정보보안기사 (2022. 09. 08)
-
-정보처리기사 (2022. 06. 17)
-
-네트워크관리사2급 (2017. 09. 12)
+|🏫 Education|🎫 Certificate|
+|---|---|
+| ● Samsung Software Academy for Youth 10th (2023. 07 ~ 2024. 06)<br/> ● Soonchunhyang University (4.22 / 4.5) (2017. 03 ~ 2023. 02)<br/> ● Geumsan High School (2014. 03 ~ 2017. 02)| ● TOEIC Speaking IM3(130) (2023. 12. 24)<br/> ● 정보보안기사 (2022. 09. 08)<br/> ● 정보처리기사 (2022. 06. 17)<br/> ● 네트워크관리사2급 (2017. 09. 12)|
 
 <h3>💻 SKILL</h3>
 
