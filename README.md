@@ -1,25 +1,44 @@
+<div align="center">
+  
+<h3>🌈 Follow Me </h3>
+
 <a href="https://onedayonepost.tistory.com/">![Static Badge](https://img.shields.io/badge/BLOG-%23EA4335?style=flat&logo=tistory)</a>
 <a href="mailto:chanhong9784@naver.com.com">![Static Badge](https://img.shields.io/badge/chanhong9784%40naver.com-%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.instagram.com/cks._.hong/">![Static Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat&logo=instagram&logoColor=white)</a>
 
-<h3>🎤 Introduce</h3>
+<br />
+<h3>🎤 Introduce </h3>
 
-😄 안녕하세요!
+😄 안녕하세요! 😄
 
+정보보호학과를 졸업했지만 <strong>웹 개발자</strong>가 되기 위해 나아가고 있습니다!
+
+새로운 것을 배우기 좋아하며 <strong>백엔드 개발자 포지션</strong>을 선호합니다.
+
+<strong>꼼꼼함</strong>과 <strong>분석력</strong>이 저의 강점이며 폭넓은 기술 스펙트럼을 보유하여 팀 프로젝트에서 주로 <strong>중재자</strong> 역할을 맡고 있습니다.
+
+<br />
 <h3>🏫 Education</h3>
 
-- Samsung Software Academy for Youth 10th (2023. 07 ~ 2024. 06) 
-- Soonchunhyang University (4.22 / 4.5) (2017. 03 ~ 2023. 02) 
-- Geumsam High School (2014. 03 ~ 2017. 02)
+Samsung Software Academy for Youth 10th (2023. 07 ~ 2024. 06) 
 
+Soonchunhyang University (4.22 / 4.5) (2017. 03 ~ 2023. 02) 
+
+Geumsan High School (2014. 03 ~ 2017. 02)
+
+<br />
 <h3>🎫 Certificate</h3>
 
-- TOEIC Speaking IM3(130) (2023. 12. 24)
-- 정보보안기사 (2022. 09. 08)
-- 정보처리기사 (2022. 06. 17)
-- 네트워크관리사2급 (2017. 09. 12)
-  
-<h3>💻 SKILLS</h3>
+TOEIC Speaking IM3(130) (2023. 12. 24)
+
+정보보안기사 (2022. 09. 08)
+
+정보처리기사 (2022. 06. 17)
+
+네트워크관리사2급 (2017. 09. 12)
+
+<br />
+<h3>💻 SKILL</h3>
 
 <h4>Languages</h4>
 
@@ -87,3 +106,5 @@
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Putty-%23007ACC?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL%20Workbench-%234479A1?style=flat&logo=mysql&logoColor=white)
+
+</div>
