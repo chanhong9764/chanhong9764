@@ -72,6 +72,3 @@
 ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Putty-%23007ACC?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL%20Workbench-%234479A1?style=flat&logo=mysql&logoColor=white)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhong9764&show_icons=true&theme=dracula)
