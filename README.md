@@ -4,17 +4,21 @@
 
 <h3>🎤 Introduce</h3>
 
-
 😄 안녕하세요!
 
-<br />
 <h3>🏫 Education</h3>
 
 - Samsung Software Academy for Youth 10th (2023. 07 ~ 2024. 06) 
-- Soonchunhyang University (2017. 03 ~ 2023. 02)
+- Soonchunhyang University (4.22 / 4.5) (2017. 03 ~ 2023. 02) 
 - Geumsam High School (2014. 03 ~ 2017. 02)
+
+<h3>🎫 Certificate</h3>
+
+- TOEIC Speaking IM3(130) (2023. 12. 24)
+- 정보보안기사 (2022. 09. 08)
+- 정보처리기사 (2022. 06. 17)
+- 네트워크관리사2급 (2017. 09. 12)
   
-<br />
 <h3>💻 SKILLS</h3>
 
 <h4>Languages</h4>
