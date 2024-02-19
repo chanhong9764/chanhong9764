@@ -100,9 +100,10 @@ markdown_text = """
 
 <br />
 
-|🏫 Education|🎫 Latest Blog Posts|
-|---|---|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)
+
+|📰 Latest Blog Posts|
+|---|
 """ # list of blog posts will be appended here
 markdown_text = markdown_text[:-1]
 markdown_text += "|"
