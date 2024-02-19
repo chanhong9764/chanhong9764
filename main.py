@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="https://onedayonepost.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=5
+MAX_POST=4
 
 markdown_text = """
 <div align="center">
