@@ -104,3 +104,5 @@ TOEIC Speaking IM3(130) (2023. 12. 24)
 ![Static Badge](https://img.shields.io/badge/MySQL%20Workbench-%234479A1?style=flat&logo=mysql&logoColor=white)
 
 </div>
+
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)
