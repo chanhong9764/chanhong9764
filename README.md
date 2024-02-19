@@ -2,10 +2,21 @@
 <a href="mailto:chanhong9784@naver.com.com">![Static Badge](https://img.shields.io/badge/chanhong9784%40naver.com-%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.instagram.com/cks._.hong/">![Static Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat&logo=instagram&logoColor=white)</a>
 
+<h3>🎤 Introduce</h3>
+
+
 😄 안녕하세요!
 
+<br />
+<h3>🏫 Education</h3>
 
+- Samsung Software Academy for Youth 10th (2023. 07 ~ 2024. 06) 
+- Soonchunhyang University (2017. 03 ~ 2023. 02)
+- Geumsam High School (2014. 03 ~ 2017. 02)
+  
+<br />
 <h3>💻 SKILLS</h3>
+
 <h4>Languages</h4>
 
 ![Static Badge](https://img.shields.io/badge/Java-%231E8CBE?style=flat)
