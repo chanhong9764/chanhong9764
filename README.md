@@ -36,7 +36,7 @@ TOEIC Speaking IM3(130) (2023. 12. 24)
 
 <h3>💻 SKILL</h3>
 
-<h4>Languages</h4>
+<h4>Language</h4>
 
 ![Static Badge](https://img.shields.io/badge/Java-%231E8CBE?style=flat)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=Javascript&logoColor=white)
@@ -94,7 +94,7 @@ TOEIC Speaking IM3(130) (2023. 12. 24)
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=Notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jandi-%2300c473?style=flat&logoColor=white)
 
-<h4>Tools</h4>
+<h4>Tool</h4>
 
 ![Static Badge](https://img.shields.io/badge/Intellij_IDEA-black?style=flat&logo=intellijidea&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Eclipse-%232C2255?style=flat&logo=Eclipse%20IDE&logoColor=white)
@@ -103,6 +103,8 @@ TOEIC Speaking IM3(130) (2023. 12. 24)
 ![Static Badge](https://img.shields.io/badge/Putty-%23007ACC?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL%20Workbench-%234479A1?style=flat&logo=mysql&logoColor=white)
 
-</div>
+<br />
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)
+
+ </div>
