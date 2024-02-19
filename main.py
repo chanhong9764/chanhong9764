@@ -104,10 +104,7 @@ markdown_text = """
 |---|---|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)
 """ # list of blog posts will be appended here
-
-markdown_text.strip("\n")
 markdown_text += "|"
-markdown_text.strip("\n")
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
