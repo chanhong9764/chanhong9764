@@ -108,6 +108,7 @@ markdown_text = """
 
 markdown_text.strip("\n")
 markdown_text += "|"
+markdown_text.strip("\n")
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
