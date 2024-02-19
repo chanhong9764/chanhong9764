@@ -1,5 +1,7 @@
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Welcome%20to%20Chanhong's%20GitHub%20&animation=twinkling&fontSize=35&height=250)
+
 <h3>🌈 Follow Me </h3>
 
 <a href="https://onedayonepost.tistory.com/">![Static Badge](https://img.shields.io/badge/BLOG-%23EA4335?style=flat&logo=tistory)</a>
@@ -8,13 +10,13 @@
 
 <h3>🎤 Introduce </h3>
 
-😄 안녕하세요! 😄
-
-정보보호학과를 졸업했지만 <strong>웹 개발자</strong>가 되기 위해 나아가고 있습니다!
+안녕하세요😄 정보보호학과를 졸업했지만 <strong>웹 개발자</strong>가 되기 위해 나아가고 있습니다!
 
 새로운 것을 배우기 좋아하며 <strong>백엔드 개발자 포지션</strong>을 선호합니다.
 
 <strong>꼼꼼함</strong>과 <strong>분석력</strong>이 저의 강점이며 폭넓은 기술 스펙트럼을 보유하여 팀 프로젝트에서 주로 <strong>중재자</strong> 역할을 맡고 있습니다.
+
+<br />
 
 |🏫 Education|🎫 Certificate|
 |---|---|
