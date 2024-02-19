@@ -106,6 +106,7 @@ markdown_text = """
 
 """ # list of blog posts will be appended here
 
+markdown_text.strip()
 markdown_text += "|"
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
