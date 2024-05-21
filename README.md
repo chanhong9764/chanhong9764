@@ -72,6 +72,7 @@
 ![Static Badge](https://img.shields.io/badge/Amazon_EC2-%23FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Apache_Kafka-%3333333.svg?style=flat&logo=apachekafka&logoColor=white)
 
 <h4>Communication</h4>
 
