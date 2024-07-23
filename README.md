@@ -5,7 +5,7 @@
 
 <h3>🌈 Follow Me </h3>
 
-<a href="https://onedayonepost.tistory.com/">![Static Badge](https://img.shields.io/badge/BLOG-%23EA4335?style=flat&logo=tistory)</a>
+<a href="https://pslog.co.kr/">![Static Badge](https://img.shields.io/badge/BLOG-%23EA4335?style=flat&logo=tistory)</a>
 <a href="mailto:chanhong9784@naver.com.com">![Static Badge](https://img.shields.io/badge/chanhong9784%40naver.com-%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.instagram.com/cks._.hong/">![Static Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat&logo=instagram&logoColor=white)</a>
 
@@ -96,4 +96,4 @@
 
 |🎈 Favorite Languages|📰 Latest Blog Posts|
 |---|---|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)|[2024/07/21 - [Programmers] 시소 짝꿍 / ❌](https://onedayonepost.tistory.com/113) <br/>[2024/07/20 - [Programmers] 뒤에 있는 큰 수 찾기 / ❌](https://onedayonepost.tistory.com/111) <br/>[2024/07/17 - [Programmers] 숫자 변환하기 / ⭕](https://onedayonepost.tistory.com/110) <br/>[2024/07/16 - [Programmers] 무인도 여행 / ⭕](https://onedayonepost.tistory.com/109) <br/>[2024/07/15 - [Programmers] 호텔 대실 / ⭕](https://onedayonepost.tistory.com/108) <br/>|</div>
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhong9764&langs_count=10&layout=compact&theme=dark)](https://github.com/chanhong9764/chanhong9764)||</div>
