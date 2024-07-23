@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL="https://onedayonepost.tistory.com/rss"
+URL="https://pslog.co.kr/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST=4
 
@@ -11,7 +11,7 @@ markdown_text = """
 
 <h3>🌈 Follow Me </h3>
 
-<a href="https://onedayonepost.tistory.com/">![Static Badge](https://img.shields.io/badge/BLOG-%23EA4335?style=flat&logo=tistory)</a>
+<a href="https://pslog.co.kr/">![Static Badge](https://img.shields.io/badge/BLOG-%23EA4335?style=flat&logo=tistory)</a>
 <a href="mailto:chanhong9784@naver.com.com">![Static Badge](https://img.shields.io/badge/chanhong9784%40naver.com-%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.instagram.com/cks._.hong/">![Static Badge](https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat&logo=instagram&logoColor=white)</a>
 
